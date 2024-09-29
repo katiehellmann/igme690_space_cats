@@ -368,7 +368,8 @@
 "Assets/FloatInSpace.cs"
 "Assets/LookingGlass/Examples/URP/ExampleAssets/TutorialInfo/Scripts/Readme.cs"
 "Assets/LookingGlass/Extras/OBEY Game Assets/lightFlicker.cs"
-"Assets/randomBounce.cs"
+"Assets/MousePointer/Draggable.cs"
+"Assets/MousePointer/MovementController.cs"
 -langversion:9.0
 
 /deterministic
